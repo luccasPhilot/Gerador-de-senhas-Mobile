@@ -6,7 +6,7 @@ Um gerador de senhas simples desenvolvido com [Expo](https://expo.dev/) para est
 
 - Geração de senhas aleatórias.
 - Opção de personalizar o comprimento da senha.
-- Inclusão de caracteres especiais, letras maiúsculas e números.
+- Inclusão de letras maiúsculasn minúsculas e números.
 - Interface amigável e intuitiva.
 
 ## Tecnologias Utilizadas
