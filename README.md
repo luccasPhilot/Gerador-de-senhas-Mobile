@@ -39,6 +39,8 @@ Siga os passos abaixo para configurar o projeto em sua máquina local:
 
 Para iniciar o projeto, utilize o comando:
 
-``` npm start
+``` 
+npm start
+```
 
 Isso abrirá o Expo Dev Tools em seu navegador. Você pode usar o aplicativo Expo Go no seu dispositivo móvel para escanear o QR code e visualizar a aplicação.
